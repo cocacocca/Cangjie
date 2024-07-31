@@ -1,10 +1,10 @@
 package Cangjie
 
-main() {
-    var width: Int64 = 4
-    let height: Int64 = 3
-    println(width * height)
+// main() {
+//     var width: Int64 = 4
+//     let height: Int64 = 3
+//     println(width * height)
 
-    width = 5
-    println(width * height)
-}
+//     width = 5
+//     println(width * height)
+// }
